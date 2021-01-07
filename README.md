@@ -21,6 +21,11 @@ Objetivos Específicos:
 
 7. CONCLUSIONES
 
+•	Las Leyes de Kirchhoff como las de Ohm resultan de gran importancia ya que se las utiliza para resolver problemas complejos de forma efectiva y rápida además nos permite analizar dos técnicas diferentes pero relevantes en el desarrollo de dichos problemas como son; mallas y nodos.
+
+•	Este laboratorio fue de gran provecho ya que se puedo realizar un circuito con dos fuentes de voltajes y por lo tanto causo más interés  en sus participantes para su resolución 
+
+
 8.	BIBLIOGRAFÍA
 
 9.	ANEXOS
