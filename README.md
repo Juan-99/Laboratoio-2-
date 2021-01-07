@@ -7,6 +7,7 @@ Objetivo General: Generar los conocimientos necesarios para la resolución de pr
 Objetivos Específicos: 
 
 •	Definir conceptos principales sobre términos técnicos utilizados en esta práctica.
+
 •	Hacer uso de lo aprendido con anterioridad sobre las leyes de Ohm y todas las clases impartidas en Fundamentos de Circuitos.
 
 2.	MARCO TEÓRICO
