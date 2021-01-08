@@ -17,6 +17,18 @@ Objetivos Específicos:
 
 **4. LISTA DE COMPONENTES**
 
+|**CANTIDAD**|**MATERIAL O EQUIPO**|
+|:------------:|:---------:|
+|1|Fuente de Voltaje de C.D.|
+|1|Multímetro Digital|
+|1|Resistor de 820 Ω|
+|1|Resistor de 390 Ω|
+|1|Resistor de 1 kΩ|
+|1|Resistor de 1.2 kΩ|
+|1|Resistor de 2.2 kΩ|
+|1|Protoboard|
+
+
 **5. EXPLICACIÓN**
 
 ![.](https://github.com/Juan-99/Laboratoio-2-/blob/main/img/circuitoexp.png)
