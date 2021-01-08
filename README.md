@@ -77,10 +77,9 @@ Podemos observar  que el los  resultados análiticos  y  los resultados experime
 
 - El medoto de mallas nos ayuda a simplicar ejercicios que resultan ser muy complejos que con la ayuda de la Ley de Ohm y las leyes de Kirchhoff el análisis del circuto se vuelve más sencillo.
 
-•	Las Leyes de Kirchhoff como las de Ohm resultan de gran importancia ya que se las utiliza para resolver problemas complejos de forma efectiva y rápida además nos permite analizar dos técnicas diferentes pero relevantes en el desarrollo de dichos problemas como son; mallas y nodos.
+- Las Leyes de Kirchhoff como las de Ohm resultan de gran importancia ya que se las utiliza para resolver problemas complejos de forma efectiva y rápida además nos permite analizar dos técnicas diferentes pero relevantes en el desarrollo de dichos problemas como son; mallas y nodos.
 
-•	Este laboratorio fue de gran provecho ya que se puedo realizar un circuito con dos fuentes de voltajes y por lo tanto causo más interés  en sus participantes para su resolución 
-
+- Este laboratorio fue de gran provecho ya que se puedo realizar un circuito con dos fuentes de voltajes y por lo tanto causo más interés  en sus participantes para su resolución.
 
 **8. BIBLIOGRAFÍAS**
 
