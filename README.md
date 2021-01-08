@@ -20,6 +20,10 @@ Circuito para el análisis de mallas
 
 ![.](https://github.com/Juan-99/Laboratoio-2-/blob/main/img/Diagramacircuito.png)
 
+Circuito construido con la ayuda del simulador tinkercad, muestra las Intensidades que pasan por las 3 mallas de dicho circuito
+
+![.](https://github.com/Juan-99/Laboratoio-2-/blob/main/img/circuitosimulado.png)
+
 **4. LISTA DE COMPONENTES**
 
 |**CANTIDAD**|**MATERIAL O EQUIPO**|
