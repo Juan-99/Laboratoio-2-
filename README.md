@@ -25,6 +25,10 @@ En el problema por analizar podemos identificar la existencia de 3 mallas por lo
 Para empezar identificamos el sentido de la corriente para proceder a realizar el análisis en cada malla.
 Establecemos las diferentes ecuaciones tomando en cuenta el sentido de la corriente y determinamos su sigo.
 
+![.](https://github.com/Juan-99/Laboratoio-2-/blob/main/img/ecuaciones.png)
+
+Solucionando el sistema de ecuaciones
+
 
 
 **7. CONCLUSIONES**
