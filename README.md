@@ -15,6 +15,10 @@ Objetivos Específicos:
 
 **3. DIAGRAMAS**
 
+Circuito para el análisis de mallas
+
+![.](https://github.com/Juan-99/Laboratoio-2-/blob/main/img/Diagramacircuito.png)
+
 **4. LISTA DE COMPONENTES**
 
 |**CANTIDAD**|**MATERIAL O EQUIPO**|
