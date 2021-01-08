@@ -24,7 +24,7 @@ Circuito para el análisis de mallas
 
 |**CANTIDAD**|**MATERIAL O EQUIPO**|
 |:------------:|:---------:|
-|1|Fuente de Voltaje de C.D.|
+|2|Fuente de Voltaje de C.D.|
 |1|Multímetro Digital|
 |1|Resistor de 820 Ω|
 |1|Resistor de 390 Ω|
