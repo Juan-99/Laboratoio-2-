@@ -29,6 +29,15 @@ Establecemos las diferentes ecuaciones tomando en cuenta el sentido de la corrie
 
 Solucionando el sistema de ecuaciones
 
+![.](https://github.com/Juan-99/Laboratoio-2-/blob/main/img/sistemadeecuaciones.png)
+
+Una vez resuelto el sistema objetemos las 3 intensidades de cada una de las mallas.
+
+I1= 11,45 mA
+
+I2= 2,84 mA
+
+I3= 0,48 mA
 
 
 **7. CONCLUSIONES**
