@@ -47,7 +47,7 @@ Solucionando el sistema de ecuaciones
 
 ![.](https://github.com/Juan-99/Laboratoio-2-/blob/main/img/sistemadeecuaciones.png)
 
-Una vez resuelto el sistema objetemos las 3 intensidades de cada una de las mallas.
+Ya resuelto el sistema de ecuaciones obtenemos las 3 intesidades que circulan en cada malla.
 
 I1= 11,45 mA
 
@@ -55,6 +55,14 @@ I2= 2,84 mA
 
 I3= 0,48 mA
 
+Una vez ya analizado analíticamente y experimetalmente el circuito se procedio a construir la tabla que se presenta a continuación
+
+**TABLA I.** Resultados obtenidos para el circuito propuesto.
+|**MALLA**|**Resultados Análiticos**|**Resultados Experimentales**|
+|:------:|:------:|:-------:|
+|1|11.45 mA|11.5 mA|
+|2|2.87 mA|2.85 mA|
+|3|0.488 mA|488 μA|
 
 **7. CONCLUSIONES**
 
