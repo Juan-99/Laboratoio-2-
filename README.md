@@ -12,6 +12,7 @@ Objetivos Específicos:
 
 **2. MARCO TEÓRICO**
 
+![.](https://github.com/Juan-99/Laboratoio-2-/blob/main/img/analisisdemallas.png)
 
 **3. DIAGRAMAS**
 
