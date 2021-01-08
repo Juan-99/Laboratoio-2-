@@ -78,6 +78,12 @@ Podemos observar  que el los  resultados análiticos  y  los resultados experime
 
 **8. BIBLIOGRAFÍAS**
 
+Charles, A., & Matthew, S. (2006). Fundamentos de circuitos eléctricos (Tercera). McGraw-Hill Interamericana. https://steltda.files.wordpress.com/2014/03/fundamentos-de-circuitos-elc3a9ctricos-3edi-sadiku.pd
+
+Zapata, F. (n.d.). Análisis de mallas: conceptos, métodos, ejemplos - Lifeder. Retrieved January 7, 2021, from https://www.lifeder.com/analisis-de-mallas/
+
+1.6. Análisis de Mallas. - Circuitos Eléctricos I. (n.d.). Retrieved January 7, 2021, from https://sites.google.com/site/e91mediosdiitalesricardotrejo/home/1-6-analisis-de-malla
+
 **9. ANEXOS**
 
 
