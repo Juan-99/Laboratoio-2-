@@ -64,6 +64,10 @@ Una vez ya analizado analíticamente y experimetalmente el circuito se procedio 
 |2|2.87 mA|2.85 mA|
 |3|0.488 mA|488 μA|
 
+
+
+Podemos observar  que el los  resultados análiticos  y  los resultados experimentales  y podemos notar que su difenrencia no es grande ya que estamos trabajando con simuladores y por lo tanto son exactos.
+
 **7. CONCLUSIONES**
 
 •	Las Leyes de Kirchhoff como las de Ohm resultan de gran importancia ya que se las utiliza para resolver problemas complejos de forma efectiva y rápida además nos permite analizar dos técnicas diferentes pero relevantes en el desarrollo de dichos problemas como son; mallas y nodos.
