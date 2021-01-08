@@ -19,6 +19,14 @@ Objetivos Específicos:
 
 **5. EXPLICACIÓN**
 
+![.](https://github.com/Juan-99/Laboratoio-2-/blob/main/img/circuitoexp.png)
+
+En el problema por analizar podemos identificar la existencia de 3 mallas por lo tanto eso  determina el número de incógnitas.
+Para empezar identificamos el sentido de la corriente para proceder a realizar el análisis en cada malla.
+Establecemos las diferentes ecuaciones tomando en cuenta el sentido de la corriente y determinamos su sigo.
+
+
+
 **7. CONCLUSIONES**
 
 •	Las Leyes de Kirchhoff como las de Ohm resultan de gran importancia ya que se las utiliza para resolver problemas complejos de forma efectiva y rápida además nos permite analizar dos técnicas diferentes pero relevantes en el desarrollo de dichos problemas como son; mallas y nodos.
